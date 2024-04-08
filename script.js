@@ -1,0 +1,1 @@
+alert("don't worry JavaScript is a easy Programming Language")
